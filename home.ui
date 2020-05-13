@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>home</class>
+ <widget class="QDialog" name="home">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>947</width>
+    <height>542</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>310</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 15pt &quot;Century Schoolbook L&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>呼叫服务</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>310</y>
+     <width>111</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 15pt &quot;Century Schoolbook L&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>紧急报警</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>150</y>
+     <width>141</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/pic/Call/dianhua.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>310</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 15pt &quot;Century Schoolbook L&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>模式选择</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>160</y>
+     <width>151</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/pic/EquipmentControl/shebei.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>10</y>
+     <width>441</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 36pt &quot;Century Schoolbook L&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>酒店客控系统</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>600</x>
+     <y>150</y>
+     <width>131</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/pic/SOS/sos.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>310</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 15pt &quot;Century Schoolbook L&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>环境控制</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>150</y>
+     <width>131</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/pic/ModelControl/model.png);
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

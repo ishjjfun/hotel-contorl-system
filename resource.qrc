@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../pic/EquipmentControl/chuanglian.png</file>
+        <file>../pic/EquipmentControl/shebei.png</file>
+        <file>../pic/EquipmentControl/right.png</file>
+        <file>../pic/EquipmentControl/left.png</file>
+        <file>../pic/EquipmentControl/kongtiao.png</file>
+        <file>../pic/EquipmentControl/jian.png</file>
+        <file>../pic/EquipmentControl/jia.png</file>
+        <file>../pic/Call/fuwuyuan.png</file>
+        <file>../pic/Call/tuichu2.png</file>
+        <file>../pic/SOS/sos.png</file>
+        <file>../pic/Call/dianhua.png</file>
+        <file>../pic/background.jpg</file>
+        <file>../pic/ModelControl/model.png</file>
+        <file>../pic/ModelControl/shuimianjianceqitang.png</file>
+        <file>../pic/ModelControl/huabankaobei.png</file>
+        <file>../pic/ModelControl/yuedu.png</file>
+        <file>../pic/xiangzuo.png</file>
+        <file>../pic/76xinzeng.png</file>
+        <file>../pic/chuanglian.png</file>
+        <file>../pic/kongtiaomoduanjiankongxitong.png</file>
+        <file>../pic/xiangzuo (1).png</file>
+        <file>../pic/jianshao.png</file>
+        <file>../pic/tubiaozhizuo- (1).png</file>
+        <file>../pic/tubiaozhizuo-.png</file>
+        <file>../pic/-.png</file>
+        <file>../pic/cesuo.png</file>
+        <file>../pic/keting.png</file>
+    </qresource>
+</RCC>
